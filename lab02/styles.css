@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(255, 255, 255);
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+p {
+    font-size: 32px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+a {
+    color: rgb(15, 13, 13);
+    text-decoration: nome;
+}
+
+a:hover{
+    color: #e30a0a;
+}
+
+div {
+    border: 2px solid #4CAF50; /* Adiciona uma borda verde de 2px ao redor das divs */
+    border-radius: 10px; /* Arredonda os cantos das divs */
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5); /* Adiciona uma sombra às divs */
+    padding: 20px; /* Adiciona espaçamento interno nas divs */
+    background-color: white; /* Define uma cor de fundo branca para as divs */
+    margin: 20px;
+    padding: 10px;
+    
+    }
+
+img {
+    max-width: 50%;
+    height: auto; /* Garante que a imagem seja redimensionada proporcionalmente */
+    border-radius: 10px; /* Adiciona bordas arredondadas à imagem */
+    }
+
+ul{
+    list-style-type: circle;
+    padding-left: 20px;
+}
+
+
+
+
+  
+
+
+    
+    
+
