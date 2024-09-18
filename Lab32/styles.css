@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    line-height: 1.6;
+    background-image: url('https://i.pinimg.com/originals/f7/74/12/f774125ccce93bf950008ecaed36fed1.jpg');
+    background-size: cover; /* Faz com que a imagem ocupe todo o fundo */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: repeat; /* Evita que a imagem se repita */
+    height: 100vh; /* Define que o corpo tenha a altura total da tela */
+    margin: 0;
+    color:white;
+}
+
+
+#question-container div {
+    margin-bottom: 20px;
+    color:white;
+}
+
+label {
+    display: block; /* Faz cada resposta aparecer em uma nova linha */
+}
