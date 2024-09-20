@@ -6,6 +6,7 @@ body {
     background-size: cover; /* Faz com que a imagem ocupe todo o fundo */
     background-position: center; /* Centraliza a imagem */
     background-repeat: repeat; /* Evita que a imagem se repita */
+    background-attachment: fixed; /* Fixa a imagem no background */
     height: 100vh; /* Define que o corpo tenha a altura total da tela */
     margin: 0;
     color:white;
